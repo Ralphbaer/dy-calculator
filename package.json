@@ -7,6 +7,13 @@
   "author": "Ralphbaer <cleversonsoares.zero@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "alphavantage": "^2.0.0"
+    "alphavantage": "^2.0.0",
+    "babel-cli": "^6.26.0",
+    "nodemon": "^1.19.4"
+  },
+  "type": "module",
+    "scripts": {
+      "start": "node index.js",
+      "test": "jest --coverage --forceExit"
   }
 }
