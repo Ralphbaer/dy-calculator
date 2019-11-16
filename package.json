@@ -1,0 +1,12 @@
+{
+  "name": "dy-calculator",
+  "version": "0.0.1",
+  "description": "A simple SPA from a investor to investors",
+  "main": "index.js",
+  "repository": "https://github.com/Ralphbaer/dy-calculator.git",
+  "author": "Ralphbaer <cleversonsoares.zero@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "alphavantage": "^2.0.0"
+  }
+}
