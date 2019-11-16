@@ -1,2 +1,2 @@
 # dy-calculator
-A simple SPA from investor to investors
+A simple SPA from an investor to investors
